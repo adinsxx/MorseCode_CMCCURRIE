@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LghlpJ9TM6nOqt+NxTubFqTl4xrOstJk07yCMGmYy+rWycdLnA84+W4u1UwKn1Bd5uYzj4UpSMbXQjolvFP4vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Connor\\RiderProjects\\MorseCode_CMCCURRIE\\MorseCode_CMCCURRIE\\MorseCode_CMCCURRIE.iOS\\MorseCode_CMCCURRIE.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Connor\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
